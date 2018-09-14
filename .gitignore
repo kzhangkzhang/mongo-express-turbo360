@@ -1,0 +1,6 @@
+/node_modules/
+/archive/
+.env
+.DS_Store
+package-lock.json
+*.docx
